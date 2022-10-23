@@ -1,1 +1,1 @@
-# A Django project to create musicapp
+# A Django project to create a musicapp
